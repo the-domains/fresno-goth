@@ -1,0 +1,28 @@
+name: Fresno Goth
+favicon: null
+layout_spectrum: 0.8522114455699921
+typography_spectrum: 0.3142060744576156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14732589130289853
+  lightness: 0.33110776264220476
+  saturation: 0.7818994035478681
+  rhythmicContrast: 0.5834569544531405
+purpose: []
